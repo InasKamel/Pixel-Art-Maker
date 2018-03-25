@@ -1,0 +1,61 @@
+@import "https://fonts.googleapis.com/css?family=Orbitron";
+
+
+body {
+    text-align: center;
+    font-family: 'Orbitron';
+    background-image: url('img/dust_scratches.png');
+}
+
+h1 {
+    font-size: 70px;
+    color: #616060;
+    margin: 0.2em;
+}
+
+h3 {
+    margin-top: 30px;
+    color: #908E8E;
+}
+
+label {
+    font-size: 14px;
+}
+
+table,
+tr,
+td {
+    border: 1px solid #908E8E;
+    background-color: #fff;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 5em;
+    outline: none;
+    border: 1px solid #E7E5E5;
+    border-radius: 3px;
+    padding: 4px 5px;
+}
+
+input[type=submit] {
+    outline: none;
+    padding: 5px;
+    border: 1px solid #B8B6B6;
+    background-color: #E7E5E5;
+    border-radius: 5px;
+    margin-left: 10px;
+    letter-spacing: 1px;
+}
