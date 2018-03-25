@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-* [Instructions](#install)
-* [Contributing](#run)
+* [Install](#install)
+* [Run](#run)
 * [Screenshots](#screenshots)
 
 ## Install
